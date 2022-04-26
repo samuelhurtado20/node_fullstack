@@ -1,0 +1,16 @@
+
+
+// npm init -y
+// npm install typescript -D
+// run tsc -- --init
+// npm install express -E
+// npm install --save @types/express -D
+// npm run tsc
+// node build/index.js
+// npm install ts-node-dev -D
+// npm run dev
+
+// ".tsx",".ts",".node",".js",".json"
+
+// npm install ts-standard -D
+// 
