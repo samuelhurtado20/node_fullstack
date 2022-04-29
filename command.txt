@@ -14,3 +14,10 @@
 
 // npm install ts-standard -D
 // 
+
+
+
+npm i standard -D
+npm i eslint -D
+./node_modules/.bin/eslint --init
+npm run lint
